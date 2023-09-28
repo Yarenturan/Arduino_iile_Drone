@@ -1,2 +1,2 @@
-# Arduino_iile_Drone
+# Arduino_ile_Drone
 Belirli mesafeyi ölçebilen Arduino ile drone
